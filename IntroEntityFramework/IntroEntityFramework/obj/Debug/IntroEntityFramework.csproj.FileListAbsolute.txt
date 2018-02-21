@@ -1,0 +1,16 @@
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\bin\Debug\IntroEntityFramework.exe.config
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\bin\Debug\IntroEntityFramework.exe
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\bin\Debug\IntroEntityFramework.pdb
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\bin\Debug\EntityFramework.dll
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\bin\Debug\EntityFramework.xml
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\obj\Debug\IntroEntityFramework.csprojResolveAssemblyReference.cache
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\obj\Debug\IntroEntityFramework.csproj.CoreCompileInputs.cache
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\obj\Debug\IntroEntityFramework.exe
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\obj\Debug\IntroEntityFramework.pdb
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\obj\Debug\IntroEntityFramework.Migrations.Initialization.resources
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\obj\Debug\IntroEntityFramework.csproj.GenerateResource.Cache
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\obj\Debug\IntroEntityFramework.Migrations.AddedCityandState.resources
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\obj\Debug\IntroEntityFramework.Migrations.AddedOrder.resources
+C:\repos\cSharpVS_2017\IntroEntityFramework\IntroEntityFramework\obj\Debug\IntroEntityFramework.Migrations.AddedOrderDateandOrderDescription.resources
