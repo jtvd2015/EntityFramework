@@ -1,0 +1,13 @@
+C:\repos\cSharpVS_2017\StudentSolution\Student\bin\Debug\Student.exe.config
+C:\repos\cSharpVS_2017\StudentSolution\Student\bin\Debug\Student.exe
+C:\repos\cSharpVS_2017\StudentSolution\Student\bin\Debug\Student.pdb
+C:\repos\cSharpVS_2017\StudentSolution\Student\bin\Debug\EntityFramework.dll
+C:\repos\cSharpVS_2017\StudentSolution\Student\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\cSharpVS_2017\StudentSolution\Student\bin\Debug\EntityFramework.xml
+C:\repos\cSharpVS_2017\StudentSolution\Student\bin\Debug\EntityFramework.SqlServer.xml
+C:\repos\cSharpVS_2017\StudentSolution\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\repos\cSharpVS_2017\StudentSolution\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\repos\cSharpVS_2017\StudentSolution\Student\obj\Debug\Student.exe
+C:\repos\cSharpVS_2017\StudentSolution\Student\obj\Debug\Student.pdb
+C:\repos\cSharpVS_2017\StudentSolution\Student\obj\Debug\Student.Migrations.addedstudenttable.resources
+C:\repos\cSharpVS_2017\StudentSolution\Student\obj\Debug\Student.csproj.GenerateResource.Cache

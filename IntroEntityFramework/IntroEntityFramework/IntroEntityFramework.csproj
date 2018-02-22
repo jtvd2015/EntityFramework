@@ -67,6 +67,14 @@
     <Compile Include="Migrations\201802212058166_Added OrderDate and OrderDescription.Designer.cs">
       <DependentUpon>201802212058166_Added OrderDate and OrderDescription.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201802221502063_make CustomerId in Order optional.cs" />
+    <Compile Include="Migrations\201802221502063_make CustomerId in Order optional.Designer.cs">
+      <DependentUpon>201802221502063_make CustomerId in Order optional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802221604366_added required, min-max Length on Customer and Order properties.cs" />
+    <Compile Include="Migrations\201802221604366_added required, min-max Length on Customer and Order properties.Designer.cs">
+      <DependentUpon>201802221604366_added required, min-max Length on Customer and Order properties.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Program.cs" />
@@ -88,6 +96,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201802212058166_Added OrderDate and OrderDescription.resx">
       <DependentUpon>201802212058166_Added OrderDate and OrderDescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802221502063_make CustomerId in Order optional.resx">
+      <DependentUpon>201802221502063_make CustomerId in Order optional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802221604366_added required, min-max Length on Customer and Order properties.resx">
+      <DependentUpon>201802221604366_added required, min-max Length on Customer and Order properties.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
